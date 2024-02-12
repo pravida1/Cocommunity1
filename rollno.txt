@@ -1,0 +1,6 @@
+git add -m "rollno.txt added"
+git add .
+copy con address.txt
+git add .
+git add -m "address.txt added "
+git status
